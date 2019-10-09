@@ -12,3 +12,4 @@ public class LoginPage {
 	public void loginValidate(){
 		System.out.println("validate login");
 }
+}
